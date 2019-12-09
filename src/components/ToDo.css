@@ -1,0 +1,64 @@
+.header{
+    background-color: rgba(24, 144, 223, 0.719);
+    padding: 50px;
+    display: flex;
+    flex-direction:column;
+    margin: 40px;
+  }
+  #textTODO{
+    width: 90%;
+    height: 40px;
+    border-radius: 9px;
+    
+  }
+  .img-js{
+      text-align: center;
+  }
+  .btn {
+    background-color: transparent;
+    border:solid 1px white;
+    width: 87px;
+    height: 36px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    color: #000;
+    border-radius: 5PX;
+    margin-top: 20px;  
+}
+  .list{
+  margin: 100px 100px;
+
+  }
+  .btnlist{
+    background-color: transparent;
+    border:solid 1px rgb(107, 103, 103);
+    width: 87px;
+    height: 36px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    color: rgb(107, 103, 103);
+    border-radius: 5PX;
+    margin-top: 20px; 
+    margin-right: 8px;  
+  }
+  
+  .textlist{
+    text-align: center;
+    color: rgba(107, 103, 103, 0.66);
+    margin-top: 40px;  
+    font-size: 25px;
+  }
+  .textDoUp{
+    text-align: end;
+    color:white;
+    margin-right: 114px;
+    
+  }
+  .ListTodos{
+    list-style-type:none;
+    text-align: left;
+    margin-left: 70px;
+  }
+  .logotoDo{
+    width:100%
+  }
